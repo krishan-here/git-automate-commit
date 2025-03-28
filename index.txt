@@ -1,4 +1,4 @@
 Hello this is for LIB-1012 branch.
 
-here are first text.
-here are some second text.
+here is the first text.
+here is the second text.
